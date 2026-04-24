@@ -242,7 +242,7 @@ No server involvement after this point!
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | POST | /api/rooms/create | Create new room |
-| GET | /api/rooms/:roomId | Get room info |
+| GET | /api/rooms/:roomId | Get room info 
 
 ### Files
 | Method | Endpoint | Description |
