@@ -251,23 +251,4 @@ No server involvement after this point!
 
 ---
 
-## 📊 Project Stats
-
-| Category | Count |
-|----------|-------|
-| 🖥️ Frontend Files | 24 |
-| 🗄️ Backend Files | 10 |
-| 📁 Root Files | 3 |
-| ✅ Total Files | 37 |
-| ✨ Total Features | 10 |
-| 📝 Lines of Code | ~4500 |
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use and modify!
-
----
-
-⭐ **If you like this project, give it a star!** ⭐
+## 
