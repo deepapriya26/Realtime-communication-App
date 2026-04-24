@@ -246,7 +246,7 @@ No server involvement after this point!
 
 ### Files
 | Method | Endpoint | Description |
-|--------|----------|-------------|
+|--------|----------|-------------,
 | POST | /api/files/upload/:roomId | Upload file |
 
 ---
